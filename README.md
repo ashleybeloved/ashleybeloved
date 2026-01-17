@@ -2,19 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="400" src="https://i.ibb.co/7NKnqM5g/847b1e79e27fef31d488e9b28d51996e.jpg"  />
-</div>
-
-###
-
-<h3 align="center">🪄 About Me</h3>
-
-###
-
-<h5 align="center">In my free time, I study Go, backend development, and web development. You can contact me on Telegram: @fuckcensor</h5>
+<h5 align="center">In my free time, I study Go, backend development, and web development.</h5>
 
 ###
 
@@ -38,16 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="center">📈 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ashleybeloved&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
