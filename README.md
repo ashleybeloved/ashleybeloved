@@ -15,6 +15,9 @@
 <h6 align="center">
   <a href="https://github.com/ashleybeloved/github-checker-bot" target="_blank">GitHub Checker Bot</a> — a Telegram bot that provides GitHub profile and repository statistics via inline queries.
 </h6>
+<h6 align="center">
+  <a href="https://github.com/ashleybeloved/feedback-bot" target="_blank">Feedback Bot</a> — a Telegram bot that forwards messages to the administrator via the bot (useful for users with spamblocks).
+</h6>
 
 ###
 
